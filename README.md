@@ -6,10 +6,10 @@
 
 - I would love to have the opportunity to work as a junior front-end developer.
 
-**Skills**: Kotli
+**Skills**: Kotlin
 
 - 🔭 I’m currently working on this page. 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/raghadabdullah97)  
+[<images src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='GitHub' height='40'>](https://github.com/https://github.com/raghadabdullah97)  
 
