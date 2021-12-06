@@ -1,6 +1,7 @@
 ### Hi there 👋, my name is Raghad abdullah
 #### I am GitHub Readme Generator's creator
-![I am GitHub Readme Generator's creator](https://cdn.al-ain.com/images/2018/5/23/127-134613-best-laptops-programmers_700x400.jpeg)
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+
 
 **- I'm a Self-Taught** Front-End Developer **Interested In :** Developing | Designing Websites | Graphic Design UX,UI | Photographer Montage | Ambitious | Talent .
 
