@@ -2,7 +2,9 @@
 #### I am GitHub Readme Generator's creator
 ![I am GitHub Readme Generator's creator](https://cdn.al-ain.com/images/2018/5/23/127-134613-best-laptops-programmers_700x400.jpeg)
 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+<img align="right" alt="GIF" src="https://camo.githubusercontent.com/82c778ea5d8483b57a7bc7475cb04fb37993a595d50ef7f5129fc74dbf3be7d9/68747470733a2f2f7374617469632e7665637465657a792e636f6d2f73797374656d2f7265736f75726365732f7468756d626e61696c732f3030302f3232372f3838302f736d616c6c5f32782f66656d616c652d646576656c6f7065722d766563746f722e6a7067" width="500" height="320" />
+
+
 
 
 **- I'm a Self-Taught** Front-End Developer **Interested In :** Developing | Designing Websites | Graphic Design UX,UI | Photographer Montage | Ambitious | Talent .
